@@ -7,7 +7,7 @@ An open source application made in Python. Allows you to enhance an old image wi
 
 ---
 
-### Download
+### Builds
 | Latest release | Latest development build |
 |----------------|--------------------------|
 | [![Noto](https://img.shields.io/badge/master-v1.0-green.svg)](https://github.com/NotoFederico/Python/tree/main/ImageAIEnhancer) | [![Noto](https://img.shields.io/badge/develop-v1.1+-blue.svg)](https://github.com/NotoFederico/Python/tree/main/ImageAIEnhancer) |
