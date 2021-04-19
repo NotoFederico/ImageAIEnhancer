@@ -39,6 +39,8 @@ The resulting file can then be saved in a directory and file name of the user's 
 
 # 2. Downloading the application
 
+![Download](https://drive.google.com/drive/folders/1i2iTni9Ii9ZzS9EKGXf3i0iU8wyGkTXu?usp=sharing)
+
 ---
 
 # 3. Building the application
