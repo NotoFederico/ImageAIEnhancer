@@ -41,18 +41,21 @@ The resulting file can then be saved in a directory and file name of the user's 
 
 ## 2.1 Building prerequisites
 
-Windows 
+### Windows
+
 1. Go to http://www.msys2.org/ and download the x86_64 installer
 2. Follow the instructions on the page for setting up the basic environment
 3. Run C:\msys64\mingw64.exe - a terminal window should pop up
 4. Execute pacman -Suy
 5. Execute pacman -S mingw-w64-x86_64-gtk3 mingw-w64-x86_64-python3 mingw-w64-x86_64-python3-gobject
 6. Execute pacman -S mingw-w64-x86_64-python-requests
-7. Use cd command to go to the local path where you cloned the repository ex: 
+7. Use cd command to go to the local path where you cloned the repository
 8. Execute python main.py
 
-Linux
+### GNU/Linux
 
+1. Open a terminal in the  local path where you cloned the repository
+2. Execute python main.py
 ---
 
 ## 2.2 Compiling and running
