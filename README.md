@@ -33,7 +33,7 @@ An open source application made in Python and Glade (GUI). Allows you to enhance
 3. [Neural Talk](https://deepai.org/api-docs/#neural-talk-2 "Neural Talk 2")
 4. [Waifu2x](https://deepai.org/machine-learning-model/waifu2x "Waifu2x")
 
-The resulting file can then be saved in a directory and file name of the user's choice.
+The output file can then be saved in the desired directory with a filename of user's choice.
 
 ---
 
