@@ -16,12 +16,11 @@ An open source application made in Python. Allows you to enhance an old image wi
 
 # Contents
 - 1 - [Introduction](#1-introduction)
-- 2 - [Downloading the application](#2-downloading-the-game-pre-built)
-- 3 - [Building the game](#3-building-the-game)
-  - 3.1 - [Building prerequisites](#31-building-prerequisites)
-  - 3.2 - [Compiling and running](#32-compiling-and-running)
-- 4 - [Contributing](#4-contributing)
-- 5 - [Licence](#5-licence)
+- 2 - [Building the game](#3-building-the-game)
+  - 2.1 - [Building prerequisites](#31-building-prerequisites)
+  - 2.2 - [Compiling and running](#32-compiling-and-running)
+- 3 - [Contributing](#4-contributing)
+- 4 - [Licence](#5-licence)
 
 ---
 
@@ -38,21 +37,34 @@ The resulting file can then be saved in a directory and file name of the user's 
 
 ---
 
-# 2. Download the application
+# 2. Building the application
+
+## 2.1 Building prerequisites
+
+Windows 
+1. Go to http://www.msys2.org/ and download the x86_64 installer
+2. Follow the instructions on the page for setting up the basic environment
+3. Run C:\msys64\mingw64.exe - a terminal window should pop up
+4. Execute pacman -Suy
+5. Execute pacman -S mingw-w64-x86_64-gtk3 mingw-w64-x86_64-python3 mingw-w64-x86_64-python3-gobject
+6. Execute pacman -S mingw-w64-x86_64-python-requests
+7. Use cd command to go to the local path where you cloned the repository ex: 
+8. Execute python main.py
+
+Linux
 
 ---
 
-# 3. Building the application
-
-## 3.1 Building prerequisites
+## 2.2 Compiling and running
 
 ---
 
-## 3.2 Compiling and running
+# 3. Contributing
+
+Pong Gmae uses the [gitflow workflow](https://www.atlassian.com/git/tutorials/comparing-workflows#gitflow-workflow). If you are implementing a new feature or logic from the original game, please branch off and perform pull requests to ```develop```. If you are fixing a bug for the next release, please branch off and perform pull requests to the correct release branch. ```master``` only contains tagged releases, you should never branch off this.
 
 ---
+# 4. Licence
 
-# 4. Contributing
+Image AI Enhancer is licensed under the GNU General Public License version 3.
 
----
-# 5. Licence
