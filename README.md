@@ -40,7 +40,13 @@ The resulting file can then be saved in a directory and file name of the user's 
 # 2. Building the application
 
 ## 2.1 Building prerequisites
-
+Windows 
+Go to http://www.msys2.org/ and download the x86_64 installer
+Follow the instructions on the page for setting up the basic environment
+Run C:\msys64\mingw64.exe - a terminal window should pop up
+Execute pacman -Suy
+Execute pacman -S mingw-w64-x86_64-gtk3 mingw-w64-x86_64-python3 mingw-w64-x86_64-python3-gobject
+Linux
 ---
 
 ## 2.2 Compiling and running
