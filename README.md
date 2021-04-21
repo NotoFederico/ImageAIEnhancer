@@ -1,5 +1,5 @@
 # Image AI Enhancer
-An open source application made in Python. Allows you to enhance an old image with artificial intelligence.
+An open source application made in Python. Allows you to enhance a grayscaled image with artificial intelligence.
 
 ---
 
