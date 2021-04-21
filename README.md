@@ -16,7 +16,7 @@ An open source application made in Python and Glade (GUI). Allows you to enhance
 
 # Contents
 - 1 - [Introduction](#1-introduction)
-- 2 - [Building the game](#2-building-the-game)
+- 2 - [Building the application](#2-building-the-application)
   - 2.1 - [Building prerequisites](#21-building-prerequisites)
   - 2.2 - [Compiling and running](#22-compiling-and-running)
 - 3 - [Contributing](#3-contributing)
