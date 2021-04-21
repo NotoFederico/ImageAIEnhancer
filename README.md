@@ -3,7 +3,7 @@ An open source application made in Python. Allows you to enhance an old image wi
 
 ---
 
-![ImageIAEnhancer.Cover](coverIma1ge.png)
+![ImageIAEnhancer.Cover](coverImage.png)
 
 ---
 
