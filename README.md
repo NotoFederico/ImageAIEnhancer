@@ -47,6 +47,9 @@ Windows
 3. Run C:\msys64\mingw64.exe - a terminal window should pop up
 4. Execute pacman -Suy
 5. Execute pacman -S mingw-w64-x86_64-gtk3 mingw-w64-x86_64-python3 mingw-w64-x86_64-python3-gobject
+6. Execute pacman -S mingw-w64-x86_64-python-requests
+7. Use cd command to go to the local path where you cloned the repository ex: 
+8. Execute python main.py
 
 Linux
 
