@@ -1,5 +1,5 @@
 # Image AI Enhancer
-An open source application made in Python. Allows you to enhance a grayscaled image with artificial intelligence.
+An open source application made in Python and Glade (GUI). Allows you to enhance a grayscaled image with artificial intelligence.
 
 ---
 
@@ -26,7 +26,7 @@ An open source application made in Python. Allows you to enhance a grayscaled im
 
 # 1. Introduction
 
-**Image AI Enhancer** is a open source application made in Python. The program allows you to select a .png or .jpg image file, convert it, and view both the original image and the enhanced image next to each other. The conversion process uses the DeepAI API where four processes take place: 
+**Image AI Enhancer** is a open source application made in Python and Glade (GUI). The program allows you to select a .png or .jpg image file, convert it, and view both the original image and the enhanced image next to each other. The conversion process uses the DeepAI API where four processes take place: 
 
 1. [Colorization](https://deepai.org/api-docs/#image-colorization "Colorization")
 2. [Super Resolution](https://deepai.org/api-docs/#super-resolution "Super Resolution")
