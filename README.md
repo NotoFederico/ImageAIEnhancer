@@ -54,8 +54,7 @@ You need python for either operative system. Get it from https://www.python.org/
 8. Execute python main.py
 
 ### GNU/Linux
-1. Open a terminal in the local path folder where you cloned the repository
-2. Execute python main.py
+None
 ---
 
 ## 2.2 Compiling and running
