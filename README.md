@@ -16,11 +16,11 @@ An open source application made in Python. Allows you to enhance a grayscaled im
 
 # Contents
 - 1 - [Introduction](#1-introduction)
-- 2 - [Building the game](#3-building-the-game)
-  - 2.1 - [Building prerequisites](#31-building-prerequisites)
-  - 2.2 - [Compiling and running](#32-compiling-and-running)
-- 3 - [Contributing](#4-contributing)
-- 4 - [Licence](#5-licence)
+- 2 - [Building the game](#2-building-the-game)
+  - 2.1 - [Building prerequisites](#21-building-prerequisites)
+  - 2.2 - [Compiling and running](#22-compiling-and-running)
+- 3 - [Contributing](#3-contributing)
+- 4 - [Licence](#4-licence)
 
 ---
 
