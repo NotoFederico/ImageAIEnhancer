@@ -47,11 +47,12 @@ You need python for either operative system. Get it from https://www.python.org/
 1. Go to http://www.msys2.org/ and download the x86_64 installer
 2. Follow the instructions on the page for setting up the basic environment
 3. Run C:\msys64\mingw64.exe - a terminal window should pop up
-4. Execute pacman -Suy
-5. Execute pacman -S mingw-w64-x86_64-gtk3 mingw-w64-x86_64-python3 mingw-w64-x86_64-python3-gobject
-6. Execute pacman -S mingw-w64-x86_64-python-requests
-7. Use cd command to go to the local path folder where you cloned the repository
-8. Execute python main.py
+4. Execute pacman -Suy 
+5. The console will close after finishing step 4. Repeat step 3 and 4, then continue with step 6
+6. Execute pacman -S mingw-w64-x86_64-gtk3 mingw-w64-x86_64-python3 mingw-w64-x86_64-python3-gobject
+7. Execute pacman -S mingw-w64-x86_64-python-requests
+8. Use cd command to go to the local path folder where you cloned the repository
+9. Execute python main.py
 
 ### GNU/Linux
 None
