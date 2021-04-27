@@ -41,21 +41,22 @@ The output file can then be saved in the desired directory with a filename of us
 
 ## 2.1 Building prerequisites
 
-You need python for either operative system. Get it from https://www.python.org/downloads/
+**You need python for either operative system. Get it from https://www.python.org/downloads/**
 
 ### Windows
-1. Go to http://www.msys2.org/ and download the x86_64 installer
-2. Follow the instructions on the page for setting up the basic environment
-3. Run C:\msys64\mingw64.exe - a terminal window should pop up
-4. Execute pacman -Suy 
-5. The console will close after finishing step 4. Repeat step 3 and 4, then continue with step 6
-6. Execute pacman -S mingw-w64-x86_64-gtk3 mingw-w64-x86_64-python3 mingw-w64-x86_64-python3-gobject
-7. Execute pacman -S mingw-w64-x86_64-python-requests
-8. Use cd command to go to the local path folder where you cloned the repository
-9. Execute python main.py
+1. Clone the repository
+2. Go to http://www.msys2.org/ and download the x86_64 installer
+3. Follow the instructions on the page for setting up the basic environment
+4. Run C:\msys64\mingw64.exe - a terminal window should pop up
+5. Execute pacman -Suy 
+6. The console will close after finishing step 5. Repeat step 4 and 5, then continue with step 7
+7. Execute pacman -S mingw-w64-x86_64-gtk3 mingw-w64-x86_64-python3 mingw-w64-x86_64-python3-gobject
+8. Execute pacman -S mingw-w64-x86_64-python-requests
+9. Use cd command to go to the local path folder where you cloned the repository, i.e, "cd C:/Users/MyUser/Documents/ImageAIEnhancer"
+10. Execute python main.py
 
 ### GNU/Linux
-None
+1. Clone the repository
 
 ---
 
