@@ -7,6 +7,12 @@ An open source application made in Python and Glade (GUI). Allows you to enhance
 
 ---
 
+### Features
+*  Converts .png or .jpg images
+*  Displays the original and enhanced images side-by-side
+*  Uses the DeepAI API for the conversion process, including colorization, super resolution, neural talk, and waifu2x
+*  Allows you to save the output file with a filename of your choice
+
 ### Builds
 | Latest release | Latest development build |
 |----------------|--------------------------|
